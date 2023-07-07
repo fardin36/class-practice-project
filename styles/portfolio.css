@@ -163,20 +163,35 @@ main section {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+    margin-bottom: 30px;
 }
 
 .resule-title {
     color: #474747;
     font-size: 25px;
     font-weight: 700;
+    margin-bottom: 10px;
 }
+
 .resume-place {
-    color:#757575;
-font-size: 20px;
-font-weight: 600;
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
+
 .resume-description {
-    color:#757575;
-font-size: 16px;
-font-weight: 400;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.resume-column hr {
+    margin: 30px;
+}
+
+/* resume download button section */
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
 }
